@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**reenu1405/reenu1405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! 
+I'm Reenu Singh and have experienced working as Technical Support professional and Relationship Management areas.
 
-Here are some ideas to get you started:
+🧑‍💻 When I'm not at work consulting or managing projects, you can often find me coding, learning new stuff, and honing my skills on various areas including ✳️ Machine Learning, ✳️ Data Science and ✳️ Data Visualization projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also love working with different technologies & platforms and my current favorite ones are
+❤️ SQL / PostgreSQL / MySQL
+❤️ Python
+❤️ Tableau
+
+📬 Find me at
+Linkedin Badge Tableau Badge Github Badge Kaggle Badge
+
