@@ -22,7 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/reenu-singh-b5352a273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/reenu-singh-b5352a273/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/reenu-singh-b5352a273/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/reenu-singh-b5352a273/" height="30" width="40" /></a> <a href="https://github.com/in/https://www.github.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rishavchanda/rishavchanda.github.io/4a20a79018cb9718eb5c569a80db49033fe327ea/images/github.svg" alt="https://www.github.com/reenu1405/" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
