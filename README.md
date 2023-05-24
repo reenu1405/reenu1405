@@ -15,9 +15,9 @@
   
   I also love working with different technologies & platforms and my current favorite ones are 
   
-•	❤️ SQL / PostgreSQL / MySQL 
-•	❤️ Python
-•	 ❤️ Tableau </p3>
+•	 SQL / PostgreSQL / MySQL 
+•	 Python
+•	 Tableau </p3>
 
 
 <h3 align="left">Connect with me:</h3>
