@@ -31,8 +31,8 @@
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://www.pngkey.com/png/full/532-5326567_there-is-a-tool-for-load-testing-the.png" alt="Jupyter" width="55" height="40"/> </a></p>
 
 ### ML/DL
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/pandas/images/python-pandas.png" alt="Pandas" width="40" height="40"/> </a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" alt="Numpy" width="40" height="40"/> </a>
+<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/pandas/images/python-pandas.png" alt="Pandas" width="55" height="40"/> </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" alt="Numpy" width="55" height="40"/> </a>
  </p>
 
 
