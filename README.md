@@ -1,5 +1,5 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ)
-<h1 align="left">Hello! 👋 </h1>
+# Hello! <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px">
 <p3 align="left">I'm Reenu Singh and have experienced working in Tech Support and Management areas.
  
   
@@ -19,6 +19,7 @@
 •	 Python
 •	 Tableau </p3>
 
+----
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
 <h3 align="left">Connect with me:</h3>
