@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/reenu-singh-b5352a273/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/reenu-singh-b5352a273/" height="30" width="40" /></a> <a href="https://github.com/in/https://www.github.com/" target="blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="https://github.com/reenu1405" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/reenu-singh-b5352a273/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/reenu-singh-b5352a273/" height="30" width="40" /></a> <a href="https://github.com/in/https://www.github.com/" target="blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="https://github.com/reenu1405/" height="30" width="40" /></a>
 
 </p>
 
